@@ -1,1 +1,13 @@
-# my-awesome-list
+## my-awesome-list
+- [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [awesome-list](https://github.com/sindresorhus/awesome)
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+- [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
+- [awesome-CS-courses](https://github.com/prakhar1989/awesome-courses)
+- [awesome-sre](https://github.com/dastergon/awesome-sre)
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+- [awesome-math](https://github.com/rossant/awesome-math)
+- [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
+- [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
